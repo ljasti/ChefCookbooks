@@ -7,5 +7,5 @@
 # All rights reserved - Do Not Redistribute
 #
 file 'hello.txt' do
-	content 'Hello Jasthi'
+	content 'Hello Jasthi! Welcome to DEVOPS'
 end
